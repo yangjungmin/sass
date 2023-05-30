@@ -31,3 +31,6 @@
 *불러들일때는 @import '파일명', 이때 파일명에 _는 포함시키지 않고, 확장명도 포함시키지 않는다.
 
 ✡️ Scss는 _로 시작하는 파일은 컴파일하지 않는다.
+
+![image](https://github.com/yangjungmin/sass/assets/129017040/1db59abe-1169-4f54-8d43-ca1c703c6a48)
+
