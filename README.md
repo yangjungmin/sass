@@ -22,3 +22,4 @@
 ![image](https://github.com/yangjungmin/sass/assets/129017040/0afc6d05-d0ee-48d8-896b-72ac6fa29e7f)
 
 # 변수 만들기 --> $로 시작함,(영문, 숫자, -,_)만 사용할 수 있음. 숫자로 시작할 수 없음.
+![image](https://github.com/yangjungmin/sass/assets/129017040/5be7f4f0-ca9e-432e-adf5-1498f67db4a7)
