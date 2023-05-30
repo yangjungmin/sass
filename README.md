@@ -17,5 +17,5 @@
 ![image](https://github.com/yangjungmin/sass/assets/129017040/7b6ceb1f-77f3-461b-8431-76d2499ea941)
 
 # 주석처리 방법
-![image](https://github.com/yangjungmin/sass/assets/129017040/fdbb7536-e001-497a-8640-1e6fd19a9f05)
+![image](https://github.com/yangjungmin/sass/assets/129017040/0afc6d05-d0ee-48d8-896b-72ac6fa29e7f)
 //로 주석처리하면 scss에만 주석메모가 남음
