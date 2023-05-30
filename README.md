@@ -9,3 +9,13 @@
 
 # savaPath:null이면 scss파일과 같은 위치에 style.css가 생긴다.
 ![image](https://github.com/yangjungmin/sass/assets/129017040/7c8908e0-0181-433e-9109-5e90c738fc80)
+
+# ~은 style.scss를 의미, /는 style.scss가 있는 폴더
+![image](https://github.com/yangjungmin/sass/assets/129017040/73f63609-9f50-4420-a058-a06da36323b8)
+
+# scss파일이 있는 폴더의 상위요소에 생성
+![image](https://github.com/yangjungmin/sass/assets/129017040/7b6ceb1f-77f3-461b-8431-76d2499ea941)
+
+# 주석처리 방법
+![image](https://github.com/yangjungmin/sass/assets/129017040/fdbb7536-e001-497a-8640-1e6fd19a9f05)
+//로 주석처리하면 scss에만 주석메모가 남음
