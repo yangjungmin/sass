@@ -50,6 +50,10 @@
 #@forward는 파샬을 묶어줌 style.scss에서는 _index.scss를 호출하여 사용함
 ![image](https://github.com/yangjungmin/sass/assets/129017040/d8d5ce32-f83b-4d9e-8005-c447be3e581d)
 
+# *(와일드카드)를 붙이면 이름을 생략할 수 있음
+![image](https://github.com/yangjungmin/sass/assets/129017040/8ffb5b81-e107-4340-b771-67012c595417)
+
+
 
 
 
