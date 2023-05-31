@@ -39,6 +39,10 @@
 
 
 # @use  --> 변수이름이 같을 때 에러발생, @use를 사용할때는 앞에 파일명을 추가해서 파일명.변수명
-![image](https://github.com/yangjungmin/sass/assets/129017040/08e80f09-b986-4ea5-9d44-43145781b8d1)
+![image](https://github.com/yangjungmin/sass/assets/129017040/045ff139-ec1b-462d-8b08-7ee08b0e1fdb)
+
++추가 -> 확장명을 다 안써줘도 됨 _ 이것도 안적어줘도 됨 그냥 변수명만 써주면 됨
+![image](https://github.com/yangjungmin/sass/assets/129017040/c7f18d6b-d455-4a3a-954b-588ca0b2cde7)
+
 
 
