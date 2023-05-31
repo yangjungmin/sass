@@ -34,3 +34,11 @@
 
 ![image](https://github.com/yangjungmin/sass/assets/129017040/1db59abe-1169-4f54-8d43-ca1c703c6a48)
 
+# @import --> 변수가 중복될 때는 아래의 것이 적용된다.
+![image](https://github.com/yangjungmin/sass/assets/129017040/dad65bbe-072f-4cf5-a152-24e513a0e5a0)
+
+
+# @use  --> 변수이름이 같을 때 에러발생, @use를 사용할때는 앞에 파일명을 추가해서 파일명.변수명
+![image](https://github.com/yangjungmin/sass/assets/129017040/08e80f09-b986-4ea5-9d44-43145781b8d1)
+
+
