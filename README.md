@@ -44,5 +44,12 @@
 +추가 -> 확장명을 다 안써줘도 됨 _ 이것도 안적어줘도 됨 그냥 변수명만 써주면 됨
 ![image](https://github.com/yangjungmin/sass/assets/129017040/c7f18d6b-d455-4a3a-954b-588ca0b2cde7)
 
+# as 뒤에 별명을 붙여서 사용할 수 있다.
+![image](https://github.com/yangjungmin/sass/assets/129017040/728b668d-1f71-4e7d-807a-18a62fa50d7c)
+
+#@forward는 파샬을 묶어줌 style.scss에서는 _index.scss를 호출하여 사용함
+![image](https://github.com/yangjungmin/sass/assets/129017040/d8d5ce32-f83b-4d9e-8005-c447be3e581d)
+
+
 
 
