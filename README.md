@@ -63,6 +63,10 @@
 # 함수(basic6)
 ![image](https://github.com/yangjungmin/sass/assets/129017040/aa2b7231-b915-4880-936b-c704c95ea2a8)
 
+# extend
+![image](https://github.com/yangjungmin/sass/assets/129017040/33e53601-afda-41c5-8d97-29d767df9790)
+
+
 
 
 
