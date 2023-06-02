@@ -53,6 +53,17 @@
 # *(와일드카드)를 붙이면 이름을 생략할 수 있음
 ![image](https://github.com/yangjungmin/sass/assets/129017040/8ffb5b81-e107-4340-b771-67012c595417)
 
+# 전역변수와 지역변수
+![image](https://github.com/yangjungmin/sass/assets/129017040/f26780c3-a1bf-4102-9897-da148d2ee255)
+
+# 보간법
+![image](https://github.com/yangjungmin/sass/assets/129017040/b72803da-2855-47d8-989b-b00073c462b6)
+
+
+# 함수(basic6)
+![image](https://github.com/yangjungmin/sass/assets/129017040/aa2b7231-b915-4880-936b-c704c95ea2a8)
+
+
 
 
 
